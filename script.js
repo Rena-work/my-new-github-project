@@ -1,4 +1,4 @@
-const MEOW = "meow";
+const MEOW = "Woof";
 
 function sayMeow() {
     console.log(MEOW);
